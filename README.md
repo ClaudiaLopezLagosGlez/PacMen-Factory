@@ -21,7 +21,7 @@ Project Title: PacMen Factory
  
 
 
-About   |   Features   |   Technologies   |   Requirements   |   Starting   |   License   |   Improvements   |   Author
+
 
 
 
