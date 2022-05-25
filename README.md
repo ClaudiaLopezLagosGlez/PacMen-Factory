@@ -16,7 +16,7 @@ Project Title: PacMen Factory
 
 ♻️ Roadmap of future improvements: 
 
-    License information:
+🌱 License information:
  
  
 
