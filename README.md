@@ -5,7 +5,7 @@
 
 📌 Project Title:
 
-👀 Demo:
+👀 Demo: 
 
 🎯 Description of the project:
 
