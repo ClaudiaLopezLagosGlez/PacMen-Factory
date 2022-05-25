@@ -4,15 +4,15 @@
 
 
 
-Project Title: PacMen Factory 
+   Project Title: PacMen Factory 
 
-🎯 Description of the project
+🎯 Description of the project:
 
-✨ How to run
+✨ How to run:
 
-🚀 Technologies
+🚀 Technologies:
 
-✅ Requirements
+✅ Requirements:
 
 ♻️ Roadmap of future improvements: 
 
