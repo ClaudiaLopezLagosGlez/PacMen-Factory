@@ -3,7 +3,7 @@
 ![pacmenfactoryimage](https://user-images.githubusercontent.com/101289219/170178171-962c6c49-5536-43a8-8ef9-cfffdbd37800.jpg)
 
 
-📌 ## Project Title:
+📌 Project Title:
 
 👀 Demo: https://rawcdn.githack.com/ClaudiaLopezLagosGlez/PacMen-Factory/3812492ddc84fd737f1b70fbea588190820fb52f/index.html 
 
