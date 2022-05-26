@@ -7,6 +7,8 @@
 
 👀 Demo: https://rawcdn.githack.com/ClaudiaLopezLagosGlez/PacMen-Factory/3812492ddc84fd737f1b70fbea588190820fb52f/index.html 
 
+         https://raw.githack.com/ClaudiaLopezLagosGlez/PacMen-Factory/main/index.html
+
 🎯 Description of the project:
 
 ✨ How to run:
