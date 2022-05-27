@@ -1,6 +1,5 @@
 
-
-![pacmenfactoryimage](https://user-images.githubusercontent.com/101289219/170178171-962c6c49-5536-43a8-8ef9-cfffdbd37800.jpg)
+![gif2](https://user-images.githubusercontent.com/101289219/170800107-e347b63e-6a49-402f-b80a-af1930ece921.gif)
 
 
 📌 Project Title: PacMen Factory
