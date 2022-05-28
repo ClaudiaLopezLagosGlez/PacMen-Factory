@@ -14,7 +14,7 @@
 🚀 Technologies:
   ⚫ HTML 
   ⚫ CSS 
-  ⚫ JavaScript  :
+  ⚫ JavaScript  
 
 ✅ Requirements:
   ⚫Installing Git 
