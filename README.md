@@ -17,7 +17,7 @@
 
 ♻️ Roadmap of future improvements: Add a PacMan sound. The mouth of each PacMan can move.
 
-©️ License information: This repository was made under the MIT license.
+©️ License information: This repository was made under the MIT License.
 
 
  
