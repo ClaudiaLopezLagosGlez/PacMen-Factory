@@ -11,20 +11,13 @@
 ✨ How to run:
  Functions makePac() and checkCollisions were implemented.
 
-🚀 Technologies:
-  ⚫ HTML 
-  ⚫ CSS 
-  ⚫ JavaScript  
+🚀 Technologies:  HTML, CSS, JavaScript.  
 
-✅ Requirements:
-  ⚫Installing Git 
-  ⚫Copy the repository https://github.com/ClaudiaLopezLagosGlez/PacMen-Factory.git
+✅ Requirements: Installing Git and copy the repository https://github.com/ClaudiaLopezLagosGlez/PacMen-Factory.git
 
-♻️ Roadmap of future improvements: 
-  🔘  Add a PacMan sound
-  🔘 The mouth of each PacMan can move
+♻️ Roadmap of future improvements: Add a PacMan sound. The mouth of each PacMan can move.
 
-©️ License information: This repository was made under the MIT license
+©️ License information: This repository was made under the MIT license.
 
 
  
